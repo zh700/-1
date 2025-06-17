@@ -1,0 +1,1 @@
+import{d as n,c as a,h as o,f as c,o as r,_}from"./index-kmnJ3fi5.js";const p="/assets/401-CsHTKDHR.png",d={class:"box"},m=n({__name:"404Index",setup(u){const e=c(),t=()=>{e.push("/home")};return(l,s)=>(r(),a("div",d,[s[0]||(s[0]=o("img",{src:p,alt:""},null,-1)),o("button",{onClick:t},"首页")]))}}),f=_(m,[["__scopeId","data-v-c1b0af50"]]);export{f as default};
